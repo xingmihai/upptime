@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: 博客
     url: https://www.xmhai.cn
-  - name: 百度
-    url: https://www.baidu.com
 
 status-website:
   # 添加您的自定义域名，如果您没有域名，则删除 `cname` 行
