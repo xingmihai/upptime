@@ -11,8 +11,8 @@ sites:
 status-website:
   # 添加您的自定义域名，如果您没有域名，则删除 `cname` 行
   # 如果没有自定义域名，请取消对 `basisurl` 行的注释，并在其中添加您的仓库名称。
-  # cname: upptime.xmhai.cn
-  baseUrl: /upptime
+  cname: upptime.xmhai.cn
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
