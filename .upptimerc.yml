@@ -9,8 +9,8 @@ sites:
     url: https://www.baidu.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # 添加您的自定义域名，如果您没有域名，则删除 `cname` 行
+  # 如果没有自定义域名，请取消对 `basisurl` 行的注释，并在其中添加您的仓库名称。
   # cname: upptime.xmhai.cn
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -23,5 +23,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Uptime 还支持通知、分配问题等操作
+# 参见 https://upptime.js.org/docs/configuration
