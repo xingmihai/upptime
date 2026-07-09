@@ -4,17 +4,19 @@
     "url": "https://www.xmhai.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.xmhai.cn.ico",
     "slug": "博客",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 1390,
-    "timeWeek": 1020,
-    "timeMonth": 886,
-    "timeYear": 886,
-    "dailyMinutesDown": {}
+    "time": 888,
+    "timeDay": 971,
+    "timeWeek": 1069,
+    "timeMonth": 888,
+    "timeYear": 888,
+    "dailyMinutesDown": {
+      "2026-07-09": 0
+    }
   }
 ]
