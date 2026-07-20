@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.xmhai.cn.ico",
     "slug": "博客",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.47%",
-    "time": 766,
-    "timeDay": 152,
-    "timeWeek": 414,
-    "timeMonth": 722,
-    "timeYear": 766,
+    "uptimeYear": "99.49%",
+    "time": 757,
+    "timeDay": 348,
+    "timeWeek": 404,
+    "timeMonth": 707,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2026-07-09": 260
     }
